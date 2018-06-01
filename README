@@ -1,0 +1,5 @@
+This is a simple program that caluclates the end of day total of a cashiers drawer by counting 
+the number or coins/bills that is in the drawer.
+
+To compile this program 
+g++ main.cpp -o run
